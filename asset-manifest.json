@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0791fbf.css",
+    "main.js": "/static/js/main.45057153.js",
+    "static/media/circular-std-book.otf": "/static/media/circular-std-book.9048137056e4347dbbd5.otf",
+    "static/media/icon.png": "/static/media/icon.fcf26af7347990556f27.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b0791fbf.css",
+    "static/js/main.45057153.js"
+  ]
+}
